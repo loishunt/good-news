@@ -1,6 +1,6 @@
 body {
-  background-color: #F8F8FF;
-  font-family: sans-serif;
+  background-color: #white;
+  font-family: arial;
 }
 h1 {
   text-align: center;
@@ -45,4 +45,35 @@ input[type="submit"] {
 }
 input:focus {
   background-color: white;
+}
+.quote {
+width: 600px;
+height:
+}
+.fa {
+    padding: 7px;
+    font-size: 10px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-reddit {
+  background: #ff5700;
+  color: white;
 }
